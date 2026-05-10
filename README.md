@@ -8,7 +8,7 @@ A Java Swing desktop application for managing warehouse inventory, stock transac
 
 | Full Name         | CMS / Student ID | Section |
 |-------------------|-----------------|---------|
-| [Member 1 Name]   | [CMS-ID-1]      | [X]     |
+| [Muhammad Sajan]   | [023-25-0170]      | [C]     |
 | [Member 2 Name]   | [CMS-ID-2]      | [X]     |
 | [Member 3 Name]   | [CMS-ID-3]      | [X]     |
 | [Member 4 Name]   | [CMS-ID-4]      | [X]     |
@@ -25,7 +25,7 @@ A Java Swing desktop application for managing warehouse inventory, stock transac
 
 ## GitHub Repository
 
-🔗 **Repo URL:** [https://github.com/YOUR_USERNAME/WMS](https://github.com/YOUR_USERNAME/WMS)
+🔗 **Repo URL:** [https://github.com/muhammadsajantunio786-svg/Warehouse-Management-System)
 
 ---
 
