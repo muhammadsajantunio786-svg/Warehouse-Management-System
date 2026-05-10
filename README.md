@@ -19,7 +19,7 @@ A Java Swing desktop application for managing warehouse inventory, stock transac
 
 ## Demo Video
 
-📹 **YouTube Link:** [https://youtu.be/YOUR_VIDEO_LINK_HERE](https://youtu.be/YOUR_VIDEO_LINK_HERE)
+📹 **YouTube Link:** [https://drive.google.com/file/d/1QTWrzCAjXXcdmaB5Sx67cO-j8xuVdcQo/view?usp=drive_link)
 
 ---
 
